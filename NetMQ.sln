@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetMQ", "NetMQ\NetMQ.csproj", "{412F8E8F-59C0-41C7-B664-5C4659A229E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Subscriber", "Subscriber\Subscriber.csproj", "{8864B33E-5CCF-424B-864E-84C580CC1E0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{E4EC636E-C5B6-4D43-B137-E0C4CC7EA35E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Content", "Content\Content.csproj", "{D06720FE-EC2F-4C57-9A9B-9092CE8F1093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412F8E8F-59C0-41C7-B664-5C4659A229E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412F8E8F-59C0-41C7-B664-5C4659A229E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412F8E8F-59C0-41C7-B664-5C4659A229E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412F8E8F-59C0-41C7-B664-5C4659A229E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8864B33E-5CCF-424B-864E-84C580CC1E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8864B33E-5CCF-424B-864E-84C580CC1E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8864B33E-5CCF-424B-864E-84C580CC1E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8864B33E-5CCF-424B-864E-84C580CC1E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4EC636E-C5B6-4D43-B137-E0C4CC7EA35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4EC636E-C5B6-4D43-B137-E0C4CC7EA35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4EC636E-C5B6-4D43-B137-E0C4CC7EA35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4EC636E-C5B6-4D43-B137-E0C4CC7EA35E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06720FE-EC2F-4C57-9A9B-9092CE8F1093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06720FE-EC2F-4C57-9A9B-9092CE8F1093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06720FE-EC2F-4C57-9A9B-9092CE8F1093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06720FE-EC2F-4C57-9A9B-9092CE8F1093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

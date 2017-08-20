@@ -1,0 +1,11 @@
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Subscriber\bin\Debug\netcoreapp1.1\Subscriber.deps.json
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Subscriber\bin\Debug\netcoreapp1.1\Subscriber.runtimeconfig.json
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Subscriber\bin\Debug\netcoreapp1.1\Subscriber.runtimeconfig.dev.json
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Subscriber\bin\Debug\netcoreapp1.1\Subscriber.dll
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Subscriber\bin\Debug\netcoreapp1.1\Subscriber.pdb
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Subscriber\bin\Debug\netcoreapp1.1\Model.dll
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Subscriber\bin\Debug\netcoreapp1.1\Model.pdb
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Subscriber\obj\Debug\netcoreapp1.1\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Subscriber\obj\Debug\netcoreapp1.1\Subscriber.AssemblyInfo.cs
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Subscriber\obj\Debug\netcoreapp1.1\Subscriber.dll
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Subscriber\obj\Debug\netcoreapp1.1\Subscriber.pdb

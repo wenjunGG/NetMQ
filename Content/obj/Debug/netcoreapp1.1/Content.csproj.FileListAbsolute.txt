@@ -1,0 +1,4 @@
+C:\Users\lewis\Documents\Visual Studio 2017\Projects\NetMQ\Content\bin\Debug\netcoreapp1.1\Content.deps.json
+C:\Users\lewis\Documents\Visual Studio 2017\Projects\NetMQ\Content\bin\Debug\netcoreapp1.1\Content.dll
+C:\Users\lewis\Documents\Visual Studio 2017\Projects\NetMQ\Content\obj\Debug\netcoreapp1.1\Content.csprojResolveAssemblyReference.cache
+C:\Users\lewis\Documents\Visual Studio 2017\Projects\NetMQ\Content\obj\Debug\netcoreapp1.1\Content.AssemblyInfo.cs

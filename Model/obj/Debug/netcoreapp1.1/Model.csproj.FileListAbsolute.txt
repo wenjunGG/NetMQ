@@ -1,0 +1,7 @@
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Model\bin\Debug\netcoreapp1.1\Model.deps.json
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Model\bin\Debug\netcoreapp1.1\Model.dll
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Model\bin\Debug\netcoreapp1.1\Model.pdb
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Model\obj\Debug\netcoreapp1.1\Model.AssemblyInfo.cs
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Model\obj\Debug\netcoreapp1.1\Model.dll
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\Model\obj\Debug\netcoreapp1.1\Model.pdb
+C:\Users\lewis\Documents\Visual Studio 2017\Projects\NetMQ\Model\obj\Debug\netcoreapp1.1\Model.csprojResolveAssemblyReference.cache

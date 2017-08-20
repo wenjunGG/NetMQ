@@ -1,0 +1,11 @@
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\NetMQ\bin\Debug\netcoreapp1.1\NetMQ.deps.json
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\NetMQ\bin\Debug\netcoreapp1.1\NetMQ.runtimeconfig.json
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\NetMQ\bin\Debug\netcoreapp1.1\NetMQ.runtimeconfig.dev.json
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\NetMQ\bin\Debug\netcoreapp1.1\NetMQ.dll
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\NetMQ\bin\Debug\netcoreapp1.1\NetMQ.pdb
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\NetMQ\bin\Debug\netcoreapp1.1\Model.dll
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\NetMQ\bin\Debug\netcoreapp1.1\Model.pdb
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\NetMQ\obj\Debug\netcoreapp1.1\NetMQ.csprojResolveAssemblyReference.cache
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\NetMQ\obj\Debug\netcoreapp1.1\NetMQ.AssemblyInfo.cs
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\NetMQ\obj\Debug\netcoreapp1.1\NetMQ.dll
+C:\Users\lewis\documents\visual studio 2017\Projects\NetMQ\NetMQ\obj\Debug\netcoreapp1.1\NetMQ.pdb
